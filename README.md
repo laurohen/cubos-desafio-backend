@@ -2,7 +2,7 @@
 Projeto para desafio tecnico Cubos
 
 
-- Exemplo de requisição de criação de regra de atendimento para cada um dos 3 casos de exemplo listados na seção "Cadastro de regra de atendimento";
+### - Exemplo de requisição de criação de regra de atendimento para cada um dos 3 casos de exemplo listados na seção "Cadastro de regra de atendimento";
   
 ### Atendimento para dia especifico
 
